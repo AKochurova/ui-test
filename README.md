@@ -11,11 +11,11 @@
 <br>
 * Открыть сайт https://testsheepnz.github.io/BasicCalculator.html 1
 <br>
-* Проскроллить вниз до конца
+* Проскроллить вниз до конца 2
 <br>
-* Выбрать сборку (Build) «Prototype»
+* Выбрать сборку (Build) «Prototype» 
 <br>
-* Ввести в поле First number значение «2»
+* Ввести в поле First number значение «2» 
 <br>
 * Ввести в поле Second number значение «3»
 <br>
