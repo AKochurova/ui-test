@@ -11,9 +11,9 @@
 <br>
 * Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
 <br>
-* Проскроллить вниз до конца 
+*  Проскроллить вниз до конца 
 <br>
-* Выбрать сборку (Build) «Prototype» 
+*  Выбрать сборку (Build) «Prototype» 
 <br>
 * Ввести в поле First number значение «2» 
 <br>
