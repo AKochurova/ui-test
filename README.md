@@ -11,12 +11,19 @@
 <br>
 Разница двух целых чисел
 <br>
-Открыть сайт https://testsheepnz.github.io/BasicCalculator.html 
+Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
+<br>
 Проскроллить вниз до конца
+<br>
 Выбрать сборку (Build) «Prototype»
+<br>
 Ввести в поле First number значение «2»
+<br>
 Ввести в поле Second number значение «3»
+<br>
 Выбрать операцию (Operation) «Subtract»
+<br>
 Нажать на кнопку «Calculate»
+<br>
 Проверить, что в поле ответа (Answer) значение равно «-1»
 
