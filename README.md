@@ -9,9 +9,9 @@
 # Задание
 Написать автотест, покрывающий следующий кейс: Разница двух целых чисел
 <br>
-* Открыть сайт https://testsheepnz.github.io/BasicCalculator.html 1
+* Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
 <br>
-* Проскроллить вниз до конца 2
+* Проскроллить вниз до конца 
 <br>
 * Выбрать сборку (Build) «Prototype» 
 <br>
