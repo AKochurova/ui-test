@@ -7,23 +7,21 @@
 Расположение тестов: src/test/java. 
 <br>
 # Задание
-Написать автотест, покрывающий следующий кейс:
+Написать автотест, покрывающий следующий кейс: Разница двух целых чисел
 <br>
-Разница двух целых чисел
+* Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
 <br>
-Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
+* Проскроллить вниз до конца
 <br>
-Проскроллить вниз до конца
+* Выбрать сборку (Build) «Prototype»
 <br>
-Выбрать сборку (Build) «Prototype»
+* Ввести в поле First number значение «2»
 <br>
-Ввести в поле First number значение «2»
+* Ввести в поле Second number значение «3»
 <br>
-Ввести в поле Second number значение «3»
+* Выбрать операцию (Operation) «Subtract»
 <br>
-Выбрать операцию (Operation) «Subtract»
+* Нажать на кнопку «Calculate»
 <br>
-Нажать на кнопку «Calculate»
-<br>
-Проверить, что в поле ответа (Answer) значение равно «-1»
+* Проверить, что в поле ответа (Answer) значение равно «-1»
 
