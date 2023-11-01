@@ -9,7 +9,7 @@
 # Задание
 Написать автотест, покрывающий следующий кейс: Разница двух целых чисел
 <br>
-* Открыть сайт https://testsheepnz.github.io/BasicCalculator.html
+* Открыть сайт https://testsheepnz.github.io/BasicCalculator.html 1
 <br>
 * Проскроллить вниз до конца
 <br>
