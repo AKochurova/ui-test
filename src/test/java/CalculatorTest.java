@@ -16,6 +16,12 @@ public class CalculatorTest {
     @Test
     public void testSubtract() {
         WebDriverManager.chromedriver().browserVersion("117").clearResolutionCache().clearDriverCache().setup();
+        //WebDriverManager.firefoxdriver().setup();
+        //WebDriverManager.edgedriver().setup();
+        //WebDriverManager.chromiumdriver().setup();
+        //WebDriverManager.operadriver().setup();
+        //WebDriverManager.safaridriver().setup();
+        
         WebDriver driver = new ChromeDriver();
 
         String url = "https://testsheepnz.github.io/BasicCalculator.html";
