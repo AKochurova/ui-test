@@ -18,9 +18,13 @@ public class CalculatorTest {
         WebDriverManager.chromedriver().browserVersion("117").clearResolutionCache().clearDriverCache().setup();
         //WebDriverManager.firefoxdriver().setup();
         //WebDriverManager.edgedriver().setup();
-        //WebDriverManager.chromiumdriver().setup();
-        //WebDriverManager.operadriver().setup();
         //WebDriverManager.safaridriver().setup();
+        //WebDriverManager.iedriver().setup();
+
+        //WebDriver driver = new FirefoxDriver();
+        //WebDriver driver = new EdgeDriver();
+        //WebDriver driver = new SafariDriver();
+        //WebDriver driver = new InternetExplorerDriver();
         
         WebDriver driver = new ChromeDriver();
 
