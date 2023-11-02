@@ -2,7 +2,7 @@
 
 Автотесты для тестирования калькулятора https://testsheepnz.github.io/BasicCalculator.html 
 <br>
-Написано на языке java в системе сборки maven c подключенными фреймворками junit, selenium и allure. Отчеты allure генерируются с помощью плагина для maven.
+Написано на языке java в сборке maven c подключенными фреймворками junit, selenium и allure. Отчеты allure генерируются с помощью плагина для maven.
 <br>
 Расположение тестов: src/test/java. 
 <br>
